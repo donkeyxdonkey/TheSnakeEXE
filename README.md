@@ -1,2 +1,2 @@
 # TheSnakeEXE
-just the game
+should require .NET FrameWork 4.7.2 or later.
